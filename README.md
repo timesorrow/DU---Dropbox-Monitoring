@@ -1,9 +1,6 @@
 # du-nested-coroutines
  A small script for DU to avoid any CPU load error
 
-# Guilded Server (better than Discord)
-
-You can join me on Guilded for help or suggestions or requests by following that link : https://guilded.jericho.dev
 
 ## How to Install
 
